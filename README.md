@@ -21,7 +21,13 @@ B3:
 -   php artisan config:clear
 -   php artisan key:generate
 
+B4:
+-    file .env cập nhật database là quanly.
+-    import csdl từ folder csdl và xampp.
 
+B5: 
+-    chạy "php artisan serve"
+ 
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
