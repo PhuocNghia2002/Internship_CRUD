@@ -7,6 +7,21 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+#Installation Instructions
+
+B1: 
+-   git clone htpps:// ....
+
+B2:
+-   copy file .env.example và sửa lại .env
+
+B3: 
+-   composer update --no-scripts
+-   php artisan cache:clear
+-   php artisan config:clear
+-   php artisan key:generate
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
